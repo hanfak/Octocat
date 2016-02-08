@@ -1,0 +1,7 @@
+ branch is where the code is being done.
+
+All work is done on the master by default, when there is a need to change something, then a new branch is created and all changes are recorded to that branch from there on.
+
+If wanted to go back to where the branches split, can go back to the master (or any other branch) which will not have the changes made in the other branch (like reseting the project to an earlier point) and can add new features.
+
+When branched work is done, can merge with master (or another branch or several).
