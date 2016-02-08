@@ -1,1 +1,6 @@
-Explain what git clone does, in your own words
+
+git clone allows user to get a copy of the repo from the github repository.
+
+It will create a directory with the name of the repo and init it
+
+git clone https://github.com/<user>/<name of repo>.git
