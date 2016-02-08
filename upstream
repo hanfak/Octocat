@@ -1,1 +1,13 @@
-Explain what the "upstream" remote is usually used for, in your own words
+upstream remote is the main source of the project that a team is collaborating on.
+
+Can collect all the latest changes to upstream remote using fetch
+
+Can fork upstream to github, then clone to local
+
+The repo that was forked is called the upstream, the copy of repo is the orgin (a copy of the original repo)
+
+local master should mirror the upstream remote, any added features user makes should be done on branches. When done with changes then merge with master
+
+orgin is used to push and pull changes
+
+When want to merge orgin with upstream, need to make a pull request
